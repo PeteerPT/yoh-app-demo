@@ -3,8 +3,8 @@
     "short_name": "YOH · Demo",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#E9F7FC",
-    "theme_color": "#296B90",
+    "background_color": "#EAF6FF",
+    "theme_color": "#0B5CAB",
     "description": "Demonstração sintética YOH; não utilizar para cuidados clínicos.",
     "prefer_related_applications": false,
     "icons": [
