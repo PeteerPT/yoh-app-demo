@@ -1,7 +1,14 @@
-Fotografia ilustrativa de boca/dentes de outra pessoa; não é paciente YOH, diagnóstico, tratamento nem resultado clínico.
-Crédito visível: Foto: David Shankbone — CC BY-SA 3.0, via Wikimedia Commons.
-Título: “Teeth by David Shankbone.jpg”.
+Fotografias ilustrativas de boca/dentes de outra pessoa; não são paciente YOH, diagnóstico, tratamento nem resultado clínico.
+
+Crédito visível na comparação: Foto: David Shankbone — CC BY-SA 3.0, via Wikimedia Commons.
+Título da origem: “Teeth by David Shankbone.jpg”.
 Autor e fonte: David Shankbone, trabalho próprio: https://commons.wikimedia.org/wiki/File:Teeth_by_David_Shankbone.jpg
 Licença: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0): https://creativecommons.org/licenses/by-sa/3.0/
-Derivação local: download do JPEG público de 1.554 × 801 px; recorte paisagem da boca `(89,0)–(1.465,800)` (1.376 × 800 px), redimensionamento para 1.280 × 744 px e recompressão JPEG progressiva para a demonstração. Não houve alteração de cor, conteúdo ou simulação de resultado clínico.
-Ao redistribuir esta derivação, devem acompanhar o crédito, o link da página do arquivo, o link da licença, a indicação de alterações e a licença CC BY-SA 3.0 (ou compatível), conforme a cláusula ShareAlike.
+
+assets/dental/stock-mouth.jpg
+Derivação local da origem pública: recorte paisagem da boca `(89,0)–(1.465,800)` (1.376 × 800 px), redimensionamento para 1.280 × 744 px e recompressão JPEG progressiva. Não houve alteração de conteúdo nem alegação de resultado clínico.
+
+assets/dental/stock-mouth-digital-tint.jpg
+Derivação de stock-mouth.jpg para uma simulação visual de ajuste de cor fotográfica. Foi aplicada uma tonalização quente, com máscara limitada aos pixels claros e pouco saturados da região dos dentes; lábios, pele e conteúdo não foram substituídos. Esta alteração é deliberadamente visível para distinguir a simulação do original. Não representa tratamento, evolução, medição de cor nem resultado clínico.
+
+Ao redistribuir qualquer derivação, devem acompanhar o crédito, o link da página do arquivo, o link da licença, a indicação de alterações e a licença CC BY-SA 3.0 (ou compatível), conforme a cláusula ShareAlike.
