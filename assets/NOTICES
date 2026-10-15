@@ -2131,6 +2131,7 @@ image_picker_for_web
 image_picker_macos
 image_picker_platform_interface
 url_launcher
+url_launcher_android
 vector_math
 
 Copyright 2013 The Flutter Authors
@@ -5285,7 +5286,6 @@ flutter_lints
 image_picker_linux
 image_picker_windows
 plugin_platform_interface
-url_launcher_android
 url_launcher_ios
 url_launcher_linux
 url_launcher_macos
